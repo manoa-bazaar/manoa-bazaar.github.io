@@ -11,7 +11,7 @@
 
 Landing page picture
 
-Create Item page picture 
+Categories page picture 
 
 User Profile page picture
 
