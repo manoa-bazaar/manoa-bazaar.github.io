@@ -1,3 +1,7 @@
+---
+title: Manoa Bazaar
+---
+
 ## Table of contents
 * [Overview](#overview)
 * [Goals](#goals)
