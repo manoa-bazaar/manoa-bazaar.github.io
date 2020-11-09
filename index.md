@@ -28,4 +28,7 @@ Contains user inputted information.
 **picture
 
 ### List Item page 
+Page that allows users to list their own items to be displayed on their profiles and respective categories. 
+Gives users options to choose caregories, prices, and input descriptions.
+
 **picture
