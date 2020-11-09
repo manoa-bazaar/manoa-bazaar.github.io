@@ -11,7 +11,7 @@
 
 Landing page picture
 
-User Home Page page picture 
+Create Item page picture 
 
 User Profile page picture
 
