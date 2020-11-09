@@ -17,12 +17,14 @@ Learn how to work in teams/divide work
 
 ## Features
 
-### Landing page 
-
+### Landing page  
 **picture
 
-Categories page picture 
+### Categories page 
+**picture 
 
-User Profile page picture
+### User Profile page 
+**picture
 
-List Item page picture
+### List Item page 
+**picture
