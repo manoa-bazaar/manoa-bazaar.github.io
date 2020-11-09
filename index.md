@@ -4,7 +4,7 @@
 * [Features](#features)
 
 ## Overview
-//Basic summary of the application
+Manoa Bazaar is a web application for UHM students to facilitate the buying and selling of student-related goods and services.
 
 ## Goals
 Create an interface to help students buy and sell products
