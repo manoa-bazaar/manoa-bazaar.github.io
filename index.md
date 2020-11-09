@@ -9,7 +9,7 @@
 
 ## Features
 
-*Landing page picture*
+Landing page picture
 Create item page picture 
 User Profile page picture
 Category page picture
