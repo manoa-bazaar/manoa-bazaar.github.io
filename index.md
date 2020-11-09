@@ -1,13 +1,11 @@
 ## Table of contents
 * [Overview](#overview)
+* [Goals](#goals)
 * [Features](#features)
-* [User Guide](#user-guide)
-* [Continuous Integration](#continuous-integration)
 
 ## Overview
 
+## Goals
+
 ## Features
 
-## User Guide
-
-## Continuous Intergration
