@@ -17,7 +17,9 @@ Learn how to work in teams/divide work
 
 ## Features
 
-Landing page picture
+### Landing page 
+
+**picture
 
 Categories page picture 
 
