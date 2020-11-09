@@ -17,6 +17,7 @@ It displays a list of most highly viewed items that are currently being sold at 
 **picture
 
 ### Categories page 
+Displays a grid of picture buttons that redirect you to a list of items within the specified categories.
 **picture 
 
 ### User Profile page 
