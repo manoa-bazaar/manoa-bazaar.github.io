@@ -6,6 +6,13 @@
 ## Overview
 
 ## Goals
+Boost workplace 
+
+Skills we want to improve through this project
+
+Strengthen relationships 
+
+Learn how to work in teams/divide work
 
 ## Features
 
