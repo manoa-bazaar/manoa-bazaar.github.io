@@ -18,7 +18,7 @@ It displays a list of most highly viewed items that are currently being sold at 
 **picture
 
 ### Categories page 
-Displays a grid of picture buttons that redirect you to a list of items within the specified categories.
+The categories page shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories.
 
 **picture 
 
