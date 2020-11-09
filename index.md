@@ -22,9 +22,9 @@ UHM students have a “rapid” churn rate in goods and services. Students leave
 The landing page is presented to users when they visit the top-level URL to the site.
 It displays a list of most highly viewed items that are currently being sold at the top level, followed by categories that display related items.
 
-![Manoa_Bazaaar_Landing_Page_1](Manoa_Bazaaar_Landing_Page_1.jpg)
-![Manoa_Bazaaar_Landing_Page_2](Manoa_Bazaaar_Landing_Page_2.jpg)
-![Manoa_Bazaaar_Landing_Page_3](Manoa_Bazaaar_Landing_Page_3.jpg)
+![Manoa_Bazaar_Landing_Page_1](Manoa_Bazaar_Landing_Page_1.JPG)
+![Manoa_Bazaar_Landing_Page_2](Manoa_Bazaar_Landing_Page_2.JPG)
+![Manoa_Bazaar_Landing_Page_3](Manoa_Bazaar_Landing_Page_3.JPG)
 ### Categories page 
 The categories page shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. This is a basic example of what the categories page will look like. Obviously it will be in style with the whole page, but for right now it is black and white because we haven't defined our theme yet. 
 
