@@ -7,13 +7,7 @@
 //Basic summary of the application
 
 ## Goals
-Boost workplace 
-
-Skills we want to improve through this project
-
-Strengthen relationships 
-
-Learn how to work in teams/divide work
+Create an interface to help students buy and sell products
 
 ## Features
 
