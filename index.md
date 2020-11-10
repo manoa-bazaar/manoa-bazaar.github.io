@@ -32,12 +32,13 @@ when you click on the category you are looking for, it will take you to a page w
 ![Textbooks Category](categories-textbooks.png)
 
 ### User Profile page 
-Contains user inputted information.
+The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users.
 
 ![User Profile](mockup-pictures/user-profile-mock-1.png)
 
+A better picture of the items currently being listed.
 ![User Profile](mockup-pictures/user-profile-mock-2.png)
-
+I plan on implementing a separate tab that shows the list of already sold items.
 
 ### List Item page 
 Page that allows users to list their own items to be displayed on their profiles and respective categories. 
