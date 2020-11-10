@@ -36,6 +36,9 @@ Contains user inputted information.
 
 ![User Profile](mockup-pictures/user-profile-mock-1.png)
 
+![User Profile](mockup-pictures/user-profile-mock-2.png)
+
+
 ### List Item page 
 Page that allows users to list their own items to be displayed on their profiles and respective categories. 
 Gives users options to choose caregories, prices, and input descriptions.
