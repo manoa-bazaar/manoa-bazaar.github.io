@@ -17,7 +17,9 @@ A big problem many students face is the high turnover rate of goods purchased th
 The Manoa Bazaar application will allow users to upload images of the items that they are selling, and each user will have a profile page which lists all of the items that they are selling as well as their rating.
 
 ## Team Members
-[Daniel Kim](https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4)
+![Daniel Kim Profile Picture](https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4)
+Daniel Kim:
+This project seems like an excellent time to practice time management as well as splitting larger problems down into smaller ones. I hope to gain better insights into the software development process as well as improve my communication skills with my teammates. 
 
 ### Landing page  
 The landing page is presented to users when they visit the top-level URL to the site.
