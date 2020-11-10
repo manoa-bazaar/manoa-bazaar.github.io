@@ -14,6 +14,10 @@ The Manoa Bazaar is an application for UHM students to facilitate buying and sel
 A big problem many students face is the high turnover rate of goods purchased throughout their semesters at UH Manoa. Our goal is to create an interface to help students buy and sell products easily, without having to worry about the usual problems that come with using mainstream reselling companies such as high shipping costs and long shipping times.
 
 ## Features
+The Manoa Bazaar application will allow users to upload images of the items that they are selling, and each user will have a profile page which lists all of the items that they are selling as well as their rating.
+
+## Team Members
+[Daniel Kim](https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4)
 
 ### Landing page  
 The landing page is presented to users when they visit the top-level URL to the site.
