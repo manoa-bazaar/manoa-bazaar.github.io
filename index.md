@@ -21,6 +21,11 @@ The Manoa Bazaar application will allow users to upload images of the items that
 Daniel Kim:
 This project seems like an excellent time to practice time management as well as splitting larger problems down into smaller ones. I hope to gain better insights into the software development process as well as improve my communication skills with my teammates. 
 
+![Emma van Rossum Profile Picture](https://avatars3.githubusercontent.com/u/70546449?s=460&u=3ed8f860ad375ed8023b0788feb719d76230a787&v=4)
+
+Emma van Rossum: 
+I am really excited to better my software engineering skills during this project and to work with my peers to create a cool app that has good functionality. I hope to, like Daniel, gain a better understanding of the software engineering process. What I've seen so far of the process in this class, I really liked and thought was really interesting. I think this project is a great first project and I am excited to see what I'll learn from this. 
+
 ### Landing page  
 The landing page is presented to users when they visit the top-level URL to the site.
 It displays a list of most highly viewed items that are currently being sold at the top level, followed by categories that display related items.
