@@ -30,7 +30,7 @@ I am really excited to better my software engineering skills during this project
 ![Lana Kawauchi Profile Picture](https://avatars1.githubusercontent.com/u/59942681?s=400&u=5385a63576924fa39d204fa624b6a152e9201ad5&v=4)
 
 Lana Kawauchi:
-I am looking forward to creating a fully functional website with the help of my project members. The idea itself is something I have interest in so I am excited to see how we can develop this concept into something that can possibly help students in the future. 
+I am currently majoring in ICS . I am looking forward to creating a fully functional website with the help of my project members. Before the pandemic I would often visit swap meets and farmers markets so I am excited to see how we can develop our website into something that can possibly help students in the future. 
 
 ![Lian Huang Profile Picture](https://avatars1.githubusercontent.com/u/34012125?s=400&u=8591666b03cf1017302a1898dd88ee57817aa37a&v=4)
 
