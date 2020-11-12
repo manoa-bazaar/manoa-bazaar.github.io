@@ -27,9 +27,13 @@ This project seems like an excellent time to practice time management as well as
 Emma van Rossum: 
 I am really excited to better my software engineering skills during this project and to work with my peers to create a cool app that has good functionality. I hope to, like Daniel, gain a better understanding of the software engineering process. What I've seen so far of the process in this class, I really liked and thought was really interesting. I think this project is a great first project and I am excited to see what I'll learn from this. 
 
-![Lana Kawauchi Profile Picture]
+![Lana Kawauchi Profile Picture](https://avatars1.githubusercontent.com/u/59942681?s=400&u=5385a63576924fa39d204fa624b6a152e9201ad5&v=4)
 Lana Kawauchi:
 I am looking forward to creating a fully functional website with the help of my project members. The idea itself is something I have interest in so I am excited to see how we can develop this concept into something that can possibly help students in the future. 
+
+![Lian Huang Profile Picture](https://avatars1.githubusercontent.com/u/34012125?s=400&u=8591666b03cf1017302a1898dd88ee57817aa37a&v=4)
+Lian Huang:
+I am excited about working with my teammates to build a fully functional website from the concepts we learned in class. This project presents a great opportunity to get a feel for what role I’d do well in and enjoy in a team environment.  
 
 ### Landing page  
 The landing page is presented to users when they visit the top-level URL to the site.
