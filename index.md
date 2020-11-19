@@ -65,7 +65,7 @@ Each of the categories, when clicked on, will have their own page that displays 
 
 
 ### User Profile page 
-The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users.
+The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users. Here is a link to that page: (https://manoabazaar.com/#/user-profile)
 
 ![User Profile](mockup-pictures/user-profile-mock-1.png)
 
