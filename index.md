@@ -46,12 +46,23 @@ It displays a list of most highly viewed items that are currently being sold at 
 ![Manoa_Bazaar_Landing_Page_3](mockup-pictures/Manoa_Bazaar_Landing_Page_3.jpeg)
 ### Categories page 
 The categories page shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. This is a basic example of what the categories page will look like. Obviously it will be in style with the whole page, but for right now it is black and white because we haven't defined our theme yet. 
-https://manoabazaar.com/#/user-profile
+
 ![Category Examples](mockup-pictures/categories-example.png)
 
-when you click on the category you are looking for, it will take you to a page where the items for that category are listed. For example, the textbook items page shows a list of the different subjects, and then you can click on each subject and see what books are offered in that category. When you click on the textbooks category, an example page of what you could get is this:
+When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the textbooks category, an example page of what you could get is this:
 
-![Textbooks Category](mockup-pictures/categories-textbooks.png)
+![Textbooks Category](mockup-pictures/textbooks-page.png)
+
+It shows all the textbooks that are offered on the Manoa-Bazaar app. 
+
+When you click on the kitchenware category, it will take you to the place where all the items that are listed in the kitchenware category are shown. It looks like this:
+![Textbooks Category](mockup-pictures/kitchenware-page.png)
+
+When you click on the bedroom items category, it will take you to the bedroom items page. An example page looks like this:
+![Textbooks Category](mockup-pictures/bedroomitems-page.png)
+
+Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category.
+
 
 ### User Profile page 
 The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users.
