@@ -45,20 +45,20 @@ It displays a list of most highly viewed items that are currently being sold at 
 ![Manoa_Bazaar_Landing_Page_2](mockup-pictures/Manoa_Bazaar_Landing_Page_2.jpeg)
 ![Manoa_Bazaar_Landing_Page_3](mockup-pictures/Manoa_Bazaar_Landing_Page_3.jpeg)
 ### Categories page 
-The categories page shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. 
+The [Categories page](https://manoabazaar.com/#/categories) shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. 
 
 ![Category Examples](mockup-pictures/categoriespage-updated.png)
 
-When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the textbooks category, an example page of what you could get is this:
+When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. It looks like this:
 
 ![Textbooks Category](mockup-pictures/textbooks-page.png)
 
 It shows all the textbooks that are offered on the Manoa-Bazaar app. 
 
-When you click on the kitchenware category, it will take you to the place where all the items that are listed in the kitchenware category are shown. It looks like this:
+When you click on the [Kitchenware](https://manoabazaar.com/#/kitchenware) category, it will take you to the place where all the items that are listed in the kitchenware category are shown. It looks like this:
 ![Textbooks Category](mockup-pictures/kitchenware-page.png)
 
-When you click on the bedroom items category, it will take you to the bedroom items page. An example page looks like this:
+When you click on the [Bedroom items](https://manoabazaar.com/#/bedroom) category, it will take you to the bedroom items page. The page displays the current bedroom items for sale:
 ![Textbooks Category](mockup-pictures/bedroomitems-page.png)
 
 Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category.
