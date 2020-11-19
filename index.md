@@ -45,9 +45,9 @@ It displays a list of most highly viewed items that are currently being sold at 
 ![Manoa_Bazaar_Landing_Page_2](mockup-pictures/Manoa_Bazaar_Landing_Page_2.jpeg)
 ![Manoa_Bazaar_Landing_Page_3](mockup-pictures/Manoa_Bazaar_Landing_Page_3.jpeg)
 ### Categories page 
-The categories page shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. This is a basic example of what the categories page will look like. Obviously it will be in style with the whole page, but for right now it is black and white because we haven't defined our theme yet. 
+The categories page shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. 
 
-![Category Examples](mockup-pictures/categories-example.png)
+![Category Examples](mockup-pictures/categoriespage-updated.png)
 
 When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the textbooks category, an example page of what you could get is this:
 
