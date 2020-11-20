@@ -35,7 +35,10 @@ I am currently majoring in ICS . I am looking forward to creating a fully functi
 ![Lian Huang Profile Picture](https://avatars1.githubusercontent.com/u/34012125?s=400&u=8591666b03cf1017302a1898dd88ee57817aa37a&v=4)
 
 Lian Huang:
-I am excited about working with my teammates to build a fully functional website from the concepts we learned in class. This project presents a great opportunity to get a feel for what role I’d do well in and enjoy in a team environment.  
+I am excited about working with my teammates to build a fully functional website from the concepts we learned in class. This project presents a great opportunity to get a feel for what role I’d do well in and enjoy in a team environment. 
+
+## Link to website
+[Here](https://manoabazaar.com/) is the link to the website for our application.
 
 ### Landing page  
 The landing page is presented to users when they visit the top-level URL to the site.
