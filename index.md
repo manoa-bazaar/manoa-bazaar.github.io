@@ -81,3 +81,8 @@ Page that allows users to list their own items to be displayed on their profiles
 Gives users options to choose caregories, prices, and input descriptions.
 
 ![Creating an Example Listing](mockup-pictures/create-item-listing.png)
+
+## Milestones
+
+[This](https://github.com/manoa-bazaar/manoa-bazaar/projects/1) is the link to Milestone 1.
+[This](https://github.com/manoa-bazaar/manoa-bazaar/projects/2) is the link to Milestone 2.
