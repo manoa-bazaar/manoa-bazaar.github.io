@@ -80,9 +80,9 @@ A better picture of the items currently being listed.
 I plan on implementing a separate tab that shows the list of already sold items.
 
 ### List Item page 
-(available [here](https://manoabazaar.com/#/add))
 Page that allows users to list their own items to be displayed on their profiles and respective categories. 
-Gives users options to choose caregories, prices, and input descriptions.
+Gives users options to choose caregories, prices, and input descriptions. 
+(available [here](https://manoabazaar.com/#/add))
 
 ![Creating an Example Listing](mockup-pictures/create-item-listing.png)
 
