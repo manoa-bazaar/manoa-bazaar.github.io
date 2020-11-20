@@ -8,7 +8,7 @@ title: Manoa Bazaar
 * [Features](#features)
 
 ## Overview
-The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. 
+The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. Check out our [organization](https://github.com/manoa-bazaar), [Milestone 1](https://github.com/manoa-bazaar/manoa-bazaar/projects/1), and [Milestone 2](https://github.com/manoa-bazaar/manoa-bazaar/projects/3) pages to follow along with our progress!
 
 ## Goals
 A big problem many students face is the high turnover rate of goods purchased throughout their semesters at UH Manoa. Our goal is to create an interface to help students buy and sell products easily, without having to worry about the usual problems that come with using mainstream reselling companies such as high shipping costs and long shipping times.
@@ -83,8 +83,3 @@ Gives users options to choose caregories, prices, and input descriptions.
 
 ![Creating an Example Listing](mockup-pictures/create-item-listing.png)
 
-## Milestones
-
-[This](https://github.com/manoa-bazaar/manoa-bazaar/projects/1) is the link to Milestone 1.
-
-[This](https://github.com/manoa-bazaar/manoa-bazaar/projects/3) is the link to Milestone 2.
