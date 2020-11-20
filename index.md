@@ -8,7 +8,7 @@ title: Manoa Bazaar
 * [Features](#features)
 
 ## Overview
-The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. Check out our [Organization Page](https://github.com/manoa-bazaar) as well as our [Milestone 1](https://github.com/manoa-bazaar/manoa-bazaar/projects/1), and [Milestone 2](https://github.com/manoa-bazaar/manoa-bazaar/projects/3) pages to follow along with our progress!
+The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. Check out our [Organization Page](https://github.com/manoa-bazaar) as well as our [Milestone 1](https://github.com/manoa-bazaar/manoa-bazaar/projects/1), and [Milestone 2](https://github.com/manoa-bazaar/manoa-bazaar/projects/3) pages to follow along with our progress! You can see a development version of our website [here](https://manoabazaar.com/).
 
 ## Goals
 A big problem many students face is the high turnover rate of goods purchased throughout their semesters at UH Manoa. Our goal is to create an interface to help students buy and sell products easily, without having to worry about the usual problems that come with using mainstream reselling companies such as high shipping costs and long shipping times.
@@ -36,9 +36,6 @@ I am currently majoring in ICS . I am looking forward to creating a fully functi
 
 Lian Huang:
 I am excited about working with my teammates to build a fully functional website from the concepts we learned in class. This project presents a great opportunity to get a feel for what role I’d do well in and enjoy in a team environment. 
-
-## Link to website
-[Here](https://manoabazaar.com/) is the link to the website for our application.
 
 ### Landing page  
 The [landing page](https://manoabazaar.com/) is presented to users when they visit the top-level URL to the site.
