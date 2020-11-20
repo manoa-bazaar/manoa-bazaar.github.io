@@ -41,7 +41,7 @@ I am excited about working with my teammates to build a fully functional website
 [Here](https://manoabazaar.com/) is the link to the website for our application.
 
 ### Landing page  
-The landing page is presented to users when they visit the top-level URL to the site.
+The [landing page](https://manoabazaar.com/) is presented to users when they visit the top-level URL to the site.
 It displays a list of most highly viewed items that are currently being sold at the top level, followed by categories that display related items.
 
 ![Manoa_Bazaar_Landing_Page_1](mockup-pictures/Manoa_Bazaar_Landing_Page_1.jpeg)
