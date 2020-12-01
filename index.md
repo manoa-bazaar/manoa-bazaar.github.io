@@ -49,6 +49,31 @@ When you click on the [Bedroom items](https://manoabazaar.com/#/bedroom) categor
 Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category.
 
 ### Developer Guide
+First, install [Meteor](https://www.meteor.com/install).
+
+Second, visit the [Manoa Bazaar application github page](https://github.com/manoa-bazaar/manoa-bazaar), and click the “Use this template” button to create your own repository initialized with this template's files.
+
+Third, clone the newly created repository onto your system.
+
+Fourth, cd into the app/ directory of your local copy of the repoand install the required libraries using
+
+```
+$meteor npm install
+```
+Lastly, run the system with:
+
+```
+$meteor npm run start
+```
+Your application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Initialization
+There will be a default set of data that will be created the first time the app runs. 
+If you add your own item listings it should appear in the terminal after you reset the application using.
+```
+$meteor reset
+```
+
 Milestone 1: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/1)
 ![Milestone Category](mockup-pictures/M1Image.png)
 
