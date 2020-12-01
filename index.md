@@ -6,12 +6,12 @@ title: Manoa Bazaar
 * [Overview](#overview)
 * [Goals](#goals)
 * [Features](#features)
-* [Team Members](#team-members)
 * Current App Pages:
   * [Landing Page](#landing-page)
   * [Categories Pages](#categories-page)
   * [User Profile Page](#user-profile-page)
   * [List Item page](#list-item-page)
+* [Team Members](#team-members)
 
 ## Overview
 The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. Check out our [Organization Page](https://github.com/manoa-bazaar) as well as our [Milestone 1](https://github.com/manoa-bazaar/manoa-bazaar/projects/1), and [Milestone 2](https://github.com/manoa-bazaar/manoa-bazaar/projects/3) pages to follow along with our progress! You can see a development version of our website [here](https://manoabazaar.com/).
@@ -21,27 +21,6 @@ A big problem many students face is the high turnover rate of goods purchased th
 
 ## Features
 The Manoa Bazaar application will allow users to upload images of the items that they are selling, and each user will have a profile page which lists all of the items that they are selling as well as their rating.
-
-## Team Members
-![Daniel Kim Profile Picture](https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4)
-
-Daniel Kim:
-This project seems like an excellent time to practice time management as well as splitting larger problems down into smaller ones. I hope to gain better insights into the software development process as well as improve my communication skills with my teammates. 
-
-![Emma van Rossum Profile Picture](https://avatars3.githubusercontent.com/u/70546449?s=460&u=3ed8f860ad375ed8023b0788feb719d76230a787&v=4)
-
-Emma van Rossum: 
-I am really excited to better my software engineering skills during this project and to work with my peers to create a cool app that has good functionality. I hope to, like Daniel, gain a better understanding of the software engineering process. What I've seen so far of the process in this class, I really liked and thought was really interesting. I think this project is a great first project and I am excited to see what I'll learn from this. 
-
-![Lana Kawauchi Profile Picture](https://avatars1.githubusercontent.com/u/59942681?s=400&u=5385a63576924fa39d204fa624b6a152e9201ad5&v=4)
-
-Lana Kawauchi:
-I am currently majoring in ICS . I am looking forward to creating a fully functional website with the help of my project members. Before the pandemic I would often visit swap meets and farmers markets so I am excited to see how we can develop our website into something that can possibly help students in the future. 
-
-![Lian Huang Profile Picture](https://avatars1.githubusercontent.com/u/34012125?s=400&u=8591666b03cf1017302a1898dd88ee57817aa37a&v=4)
-
-Lian Huang:
-I am excited about working with my teammates to build a fully functional website from the concepts we learned in class. This project presents a great opportunity to get a feel for what role I’d do well in and enjoy in a team environment. 
 
 ### Landing page  
 The [landing page](https://manoabazaar.com/) is presented to users when they visit the top-level URL to the site.
@@ -85,4 +64,28 @@ Gives users options to choose caregories, prices, and input descriptions.
 (available [here](https://manoabazaar.com/#/add))
 
 ![Creating an Example Listing](mockup-pictures/create-item-listing.png)
+
+## Team Members
+![Daniel Kim Profile Picture](https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4)
+
+Daniel Kim:
+This project seems like an excellent time to practice time management as well as splitting larger problems down into smaller ones. I hope to gain better insights into the software development process as well as improve my communication skills with my teammates. 
+
+<div class="ui small rounded images">
+  <img class="ui image" src="https://avatars3.githubusercontent.com/u/70546449?s=460&u=3ed8f860ad375ed8023b0788feb719d76230a787&v=4">
+</div>
+
+Emma van Rossum: 
+I am really excited to better my software engineering skills during this project and to work with my peers to create a cool app that has good functionality. I hope to, like Daniel, gain a better understanding of the software engineering process. What I've seen so far of the process in this class, I really liked and thought was really interesting. I think this project is a great first project and I am excited to see what I'll learn from this. 
+
+![Lana Kawauchi Profile Picture](https://avatars1.githubusercontent.com/u/59942681?s=400&u=5385a63576924fa39d204fa624b6a152e9201ad5&v=4)
+
+Lana Kawauchi:
+I am currently majoring in ICS . I am looking forward to creating a fully functional website with the help of my project members. Before the pandemic I would often visit swap meets and farmers markets so I am excited to see how we can develop our website into something that can possibly help students in the future. 
+
+![Lian Huang Profile Picture](https://avatars1.githubusercontent.com/u/34012125?s=400&u=8591666b03cf1017302a1898dd88ee57817aa37a&v=4)
+
+Lian Huang:
+I am excited about working with my teammates to build a fully functional website from the concepts we learned in class. This project presents a great opportunity to get a feel for what role I’d do well in and enjoy in a team environment. 
+
 
