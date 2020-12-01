@@ -49,9 +49,10 @@ When you click on the [Bedroom items](https://manoabazaar.com/#/bedroom) categor
 Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category.
 
 ### Developer Guide
-Milestone 1: [Click Here]
+Milestone 1: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/1)
+![Milestone Category](mockup-pictures/M1Image.png)
 
-Milestone 2: [Click Here]
+Milestone 2: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/3)
 
 ### User Profile page  
 The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users. Here is a link to that page: [https://manoabazaar.com/#/user-profile](https://manoabazaar.com/#/user-profile)
