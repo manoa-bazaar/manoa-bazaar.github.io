@@ -71,9 +71,8 @@ Gives users options to choose caregories, prices, and input descriptions.
 Daniel Kim:
 This project seems like an excellent time to practice time management as well as splitting larger problems down into smaller ones. I hope to gain better insights into the software development process as well as improve my communication skills with my teammates. 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="https://avatars3.githubusercontent.com/u/70546449?s=460&u=3ed8f860ad375ed8023b0788feb719d76230a787&v=4">
-</div>
+
+<img class="ui small image" src="https://avatars3.githubusercontent.com/u/70546449?s=460&u=3ed8f860ad375ed8023b0788feb719d76230a787&v=4">
 
 Emma van Rossum: 
 I am really excited to better my software engineering skills during this project and to work with my peers to create a cool app that has good functionality. I hope to, like Daniel, gain a better understanding of the software engineering process. What I've seen so far of the process in this class, I really liked and thought was really interesting. I think this project is a great first project and I am excited to see what I'll learn from this. 
