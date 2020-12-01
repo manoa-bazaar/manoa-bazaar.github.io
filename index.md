@@ -76,9 +76,11 @@ $meteor reset
 
 ### Development History 
 Milestone 1: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/1)
+
 The goal for Milestone 1 was to complete the development of various pages such as the landing page, user profile page, etc. The website was also deployed with a unique url.
 
 Milestone 2: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/3)
+
 The goal of Milestone 2 is to improve the website's functionality by adding additional pages and implementing realistic datasets. 
 
 ### User Profile page  
