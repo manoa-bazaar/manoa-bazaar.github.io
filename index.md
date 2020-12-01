@@ -34,9 +34,9 @@ The [Categories page](https://manoabazaar.com/#/categories) shows ths users 5 ca
 
 ![Category Examples](mockup-pictures/categoriespage-updated.png)
 
-When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. It looks like this:
+When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. Each item has a button at the bottom that says "view item", that when clicked on, will take show you the item with all the details belonging to that item. It looks like this:
 
-![Textbooks Category](mockup-pictures/textbooks-page.png)
+![Textbooks Category View item](mockup-pictures/category-page-view.png)
 
 It shows all the textbooks that are offered on the Manoa-Bazaar app. 
 
