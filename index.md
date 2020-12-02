@@ -60,11 +60,22 @@ A better picture of the items currently being listed.
 I plan on implementing a separate tab that shows the list of already sold items.
 
 ### List Item page 
-Page that allows users to list their own items to be displayed on their profiles and respective categories. 
+Page that allows users to list their own items for sale, this item is to be displayed on their profiles and respective categories. 
 Gives users options to choose caregories, prices, and input descriptions. 
 (available [here](https://manoabazaar.com/#/add))
 
-![Creating an Example Listing](mockup-pictures/create-item-listing.png)
+The add listing page looks like this:
+
+![Creating an Example Listing](mockup-pictures/add-listing.png)
+
+When the information is filled out, you click submit. An alert will appear on the screen that the item has been added successfully. 
+
+![Listing-added](mockup-pictures/filled-out-listing.png)
+![Alert listing](mockup-pictures/alert-added-listing.png)
+
+Then, the listing appears in the page of the category it was added in:
+
+![Page of listing](mockup-pictures/added-listing-books.png)
 
 ### Admin
 When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site:
