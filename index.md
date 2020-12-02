@@ -11,6 +11,7 @@ title: Manoa Bazaar
   * [Categories Pages](#categories-page)
   * [User Profile Page](#user-profile-page)
   * [List Item page](#list-item-page)
+* [Developer Guide](#developer-guide)
 * [Team Members](#team-members)
 
 ## Overview
@@ -48,12 +49,28 @@ When you click on the [Bedroom items](https://manoabazaar.com/#/bedroom) categor
 
 Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category.
 
+### User Profile page  
+The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users. Here is a link to that page: [https://manoabazaar.com/#/user-profile](https://manoabazaar.com/#/user-profile)
+
+![User Profile](mockup-pictures/user-profile-mock-1.png)
+
+A better picture of the items currently being listed.
+![User Profile](mockup-pictures/user-profile-mock-2.png)
+I plan on implementing a separate tab that shows the list of already sold items.
+
+### List Item page 
+Page that allows users to list their own items to be displayed on their profiles and respective categories. 
+Gives users options to choose caregories, prices, and input descriptions. 
+(available [here](https://manoabazaar.com/#/add))
+
+![Creating an Example Listing](mockup-pictures/create-item-listing.png)
+
 ### Developer Guide
 First, install [Meteor](https://www.meteor.com/install).
 
-Second, visit the [Manoa Bazaar application github page](https://github.com/manoa-bazaar/manoa-bazaar), and click the “Use this template” button to create your own repository initialized with this template's files.
+Second, visit the [Manoa Bazaar application github page](https://github.com/manoa-bazaar/manoa-bazaar), and click the “Code” button that gives you the option to clone the code to your computer.
 
-Third, clone the newly created repository onto your system.
+Third, clone the code onto your computer and name the repository.
 
 Fourth, cd into the app/ directory of your local copy of the repoand install the required libraries using
 
@@ -82,22 +99,6 @@ The goal for Milestone 1 was to complete the development of various pages such a
 Milestone 2: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/3)
 
 The goal of Milestone 2 is to improve the website's functionality by adding additional pages and implementing realistic datasets. 
-
-### User Profile page  
-The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users. Here is a link to that page: [https://manoabazaar.com/#/user-profile](https://manoabazaar.com/#/user-profile)
-
-![User Profile](mockup-pictures/user-profile-mock-1.png)
-
-A better picture of the items currently being listed.
-![User Profile](mockup-pictures/user-profile-mock-2.png)
-I plan on implementing a separate tab that shows the list of already sold items.
-
-### List Item page 
-Page that allows users to list their own items to be displayed on their profiles and respective categories. 
-Gives users options to choose caregories, prices, and input descriptions. 
-(available [here](https://manoabazaar.com/#/add))
-
-![Creating an Example Listing](mockup-pictures/create-item-listing.png)
 
 ## Team Members
 <img src="https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4" width="200">
