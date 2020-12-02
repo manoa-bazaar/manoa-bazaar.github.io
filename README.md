@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/manoa-bazaar/manoa-bazaar/workflows/manoa-bazaar/badge.svg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/manoa-bazaar/manoa-bazaar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
