@@ -15,7 +15,7 @@ title: Manoa Bazaar
 * [Team Members](#team-members)
 
 ## Overview
-The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. Check out our [Organization Page](https://github.com/manoa-bazaar) as well as our [Milestone 1](https://github.com/manoa-bazaar/manoa-bazaar/projects/1), and [Milestone 2](https://github.com/manoa-bazaar/manoa-bazaar/projects/3) pages to follow along with our progress! You can see a development version of our website [here](https://manoabazaar.com/).
+The Manoa Bazaar is an application for UHM students to facilitate buying and selling of student-related goods and services. Check out our [Organization Page](https://github.com/manoa-bazaar) as well as our [Milestone 1](https://github.com/manoa-bazaar/manoa-bazaar/projects/1), [Milestone 2](https://github.com/manoa-bazaar/manoa-bazaar/projects/3), and [Milestone 3](https://github.com/manoa-bazaar/manoa-bazaar/projects/4) pages to follow along with our progress! You can see a development version of our website [here](https://manoabazaar.com/).
 
 ## Goals
 A big problem many students face is the high turnover rate of goods purchased throughout their semesters at UH Manoa. Our goal is to create an interface to help students buy and sell products easily, without having to worry about the usual problems that come with using mainstream reselling companies such as high shipping costs and long shipping times.
@@ -99,6 +99,10 @@ The goal for Milestone 1 was to complete the development of various pages such a
 Milestone 2: [Click Here](https://github.com/manoa-bazaar/manoa-bazaar/projects/3)
 
 The goal of Milestone 2 is to improve the website's functionality by adding additional pages and implementing realistic datasets. 
+
+Milestone 3: [Click here](https://github.com/manoa-bazaar/manoa-bazaar/projects/4)
+
+The goal of Milestone 3 is to have a functional website that satisfies the goals of our project. 
 
 ## Team Members
 <img src="https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4" width="200">
