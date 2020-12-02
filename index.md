@@ -88,6 +88,12 @@ Now, as you can see, the price of the first listing has been updated:
 
 ![Updated listing](mockup-pictures/updated-listing.png)
 
+The admin also has the power to remove items. The item we added in Add Listing page, the French textbook, appears in the Admin tab:
+![Listing in admin page](mockup-pictures/listing-in-admin.png)
+
+Then, when you click on remove, it is removed:
+![Listing removed](mockup-pictures/listing-removed.png)
+
 ### Developer Guide
 First, install [Meteor](https://www.meteor.com/install).
 
