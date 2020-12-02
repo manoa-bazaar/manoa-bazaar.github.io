@@ -28,7 +28,7 @@ The Manoa Bazaar application will allow users to upload images of the items that
 The [landing page](https://manoabazaar.com/) is presented to users when they visit the top-level URL to the site.
 It displays a list of most highly viewed items that are currently being sold at the top level, followed by categories that display related items.
 
-![Manoa_Bazaar_Landing_Page_1](mockup-pictures/Landing-Page1.JPG)
+![Manoa_Bazaar_Landing_Page_1](mockup-pictures/LandingPage2.JPG)
 
 As you can see in the top right of the landing page, there is the option to login or to register. When you click on login, you can login using your credentials. If you don't have am account yet, you can click on sign up. 
 The login page looks like this:
@@ -47,7 +47,7 @@ The [Categories page](https://manoabazaar.com/#/categories) shows ths users 5 ca
 
 When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. Each item has a button at the bottom that says "view item", that when clicked on, will take show you the item with all the details belonging to that item. This is the same for all items in each of the categories. In the case of the Textbooks category looks like this:
 
-![Textbooks Category View item](mockup-pictures/category-page-view.png)
+![Textbooks Category View item](mockup-pictures/Textbooks2.JPG)
 
 It shows all the textbooks that are offered on the Manoa-Bazaar app. 
 Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category, and each item on that page has a button that links to the view item page.
@@ -77,12 +77,12 @@ When the information is filled out, you click submit. An alert will appear on th
 
 Then, the listing appears in the page of the category it was added in:
 
-![Page of listing](mockup-pictures/added-listing-books.png)
+![Page of listing](mockup-pictures/Textbooks2-2.JPG)
 
 ### Admin
 When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site:
 
-![Edit listing](mockup-pictures/List-stuff-admin.png)
+![Edit listing](mockup-pictures/Admin2-1.JPG)
 
 The admin can edit and remove listings. 
 The edit looks like this: 
