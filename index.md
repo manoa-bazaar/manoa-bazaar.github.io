@@ -11,6 +11,7 @@ title: Manoa Bazaar
   * [Categories Pages](#categories-page)
   * [User Profile Page](#user-profile-page)
   * [List Item page](#list-item-page)
+  * [Admin](#admin)
 * [Developer Guide](#developer-guide)
 * [Team Members](#team-members)
 
@@ -64,6 +65,24 @@ Gives users options to choose caregories, prices, and input descriptions.
 (available [here](https://manoabazaar.com/#/add))
 
 ![Creating an Example Listing](mockup-pictures/create-item-listing.png)
+
+### Admin
+When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site:
+
+![Edit listing](mockup-pictures/list-stuff-admin.png)
+
+The admin can edit and remove listings. 
+The edit looks like this: 
+
+![Edit page](mockup-pictures/edit-listing.png)
+
+When the new information is put into that page, you click 'submit', and then you'll get a notification that the item has updated successfully (in this case, we've updated the price):
+
+![Alert edit](mockup-pictures/listing-edited.png)
+
+Now, as you can see, the price of the first listing has been updated:
+
+![Updated listing](mockup-pictures/updated-listing.png)
 
 ### Developer Guide
 First, install [Meteor](https://www.meteor.com/install).
