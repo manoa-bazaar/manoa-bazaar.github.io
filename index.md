@@ -31,7 +31,18 @@ It displays a list of most highly viewed items that are currently being sold at 
 ![Manoa_Bazaar_Landing_Page_1](mockup-pictures/Manoa_Bazaar_Landing_Page_1.jpeg)
 ![Manoa_Bazaar_Landing_Page_2](mockup-pictures/Manoa_Bazaar_Landing_Page_2.jpeg)
 ![Manoa_Bazaar_Landing_Page_3](mockup-pictures/Manoa_Bazaar_Landing_Page_3.jpeg)
+
+As you can see in the top right of the landing page, there is the option to login or to register. When you click on login, you can login using your credentials. If you don't have am account yet, you can click on sign up. 
+The login page looks like this:
+
+![Login page](mockup-pictures/login-page.png)
+
+The register page looks like this:
+![Register page](mockup-pictures/register-page.png)
+
+
 ### Categories page 
+Once the user is logged in, they can see the different categories in which items are offered.
 The [Categories page](https://manoabazaar.com/#/categories) shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. 
 
 ![Category Examples](mockup-pictures/categoriespage-updated.png)
