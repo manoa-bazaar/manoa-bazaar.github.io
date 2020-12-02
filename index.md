@@ -69,7 +69,7 @@ Gives users options to choose caregories, prices, and input descriptions.
 ### Admin
 When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site:
 
-![Edit listing](mockup-pictures/list-stuff-admin.png)
+![Edit listing](mockup-pictures/List-stuff-admin.png)
 
 The admin can edit and remove listings. 
 The edit looks like this: 
