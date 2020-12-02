@@ -28,7 +28,7 @@ The Manoa Bazaar application will allow users to upload images of the items that
 The [landing page](https://manoabazaar.com/) is presented to users when they visit the top-level URL to the site.
 It displays a list of most highly viewed items that are currently being sold at the top level, followed by categories that display related items.
 
-![Manoa_Bazaar_Landing_Page_1](mockup-pictures/Landing-Page1.jpeg)
+![Manoa_Bazaar_Landing_Page_1](mockup-pictures/Landing-Page1.JPG)
 
 As you can see in the top right of the landing page, there is the option to login or to register. When you click on login, you can login using your credentials. If you don't have am account yet, you can click on sign up. 
 The login page looks like this:
