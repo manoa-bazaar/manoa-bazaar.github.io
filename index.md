@@ -36,19 +36,12 @@ The [Categories page](https://manoabazaar.com/#/categories) shows ths users 5 ca
 
 ![Category Examples](mockup-pictures/categoriespage-updated.png)
 
-When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. Each item has a button at the bottom that says "view item", that when clicked on, will take show you the item with all the details belonging to that item. It looks like this:
+When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. Each item has a button at the bottom that says "view item", that when clicked on, will take show you the item with all the details belonging to that item. This is the same for all items in each of the categories. In the case of the Textbooks category looks like this:
 
 ![Textbooks Category View item](mockup-pictures/category-page-view.png)
 
 It shows all the textbooks that are offered on the Manoa-Bazaar app. 
-
-When you click on the [Kitchenware](https://manoabazaar.com/#/kitchenware) category, it will take you to the place where all the items that are listed in the kitchenware category are shown. It looks like this:
-![Textbooks Category](mockup-pictures/kitchenware-page.png)
-
-When you click on the [Bedroom items](https://manoabazaar.com/#/bedroom) category, it will take you to the bedroom items page. The page displays the current bedroom items for sale:
-![Textbooks Category](mockup-pictures/bedroomitems-page.png)
-
-Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category.
+Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category, and each item on that page has a button that links to the view item page.
 
 ### User Profile page  
 The user profile is shown when you click on a user's picture or name. It displays their banner picture, icon picture, username, average rating, amount of items currently being listed and total sales, and a short description of their shop. The rating can be clicked to see reviews left by other users. Here is a link to that page: [https://manoabazaar.com/#/user-profile](https://manoabazaar.com/#/user-profile)
