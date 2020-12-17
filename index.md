@@ -83,20 +83,17 @@ Then, the listing appears in the page of the category it was added in:
 ### Admin
 When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site, including the option to edit or delete that listing. The admin can also see who the owner of that listing is:
 
-![Edit listing](mockup-pictures/admin-page-owners.png)
+![Edit listing](mockup-pictures/admin1.JPG)
 
 The admin can edit and remove listings. 
-The edit looks like this: 
-
-![Edit page](mockup-pictures/Edit2-0.JPG)
 
 When the new information is put into that page, you click 'submit', and then you'll get a notification that the item has updated successfully (in this case, we've updated the price):
 
-![Alert edit](mockup-pictures/Edit2-1.JPG)
+![Alert edit](mockup-pictures/editlisting2.JPG)
 
 Now, as you can see, the price of the first listing has been updated:
 
-![Updated listing](mockup-pictures/Edit2-3.JPG)
+![Updated listing](mockup-pictures/editlisting3.JPG)
 
 The admin also has the power to remove items. The item we added in Add Listing page, the French textbook, appears in the Admin tab:
 ![Listing in admin page](mockup-pictures/listing-in-admin.png)
