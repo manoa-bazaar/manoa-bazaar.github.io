@@ -85,9 +85,7 @@ When the current user logged in has the role admin, there are some extra things 
 
 ![Edit listing](mockup-pictures/admin1.JPG)
 
-The admin can edit and remove listings. 
-
-When the new information is put into that page, you click 'submit', and then you'll get a notification that the item has updated successfully (in this case, we've updated the price):
+The admin can edit and remove listings. When the new information is put into that page, you click 'submit', and then you'll get a notification that the item has updated successfully (in this case, we've updated the price):
 
 ![Alert edit](mockup-pictures/editlisting2.JPG)
 
