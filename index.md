@@ -13,6 +13,7 @@ title: Manoa Bazaar
   * [List Item page](#list-item-page)
   * [Admin](#admin)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Team Members](#team-members)
 
 ## Overview
@@ -141,6 +142,9 @@ The goal of Milestone 2 is to improve the website's functionality by adding addi
 Milestone 3: [Click here](https://github.com/manoa-bazaar/manoa-bazaar/projects/4)
 
 The goal of Milestone 3 is to have a functional website that satisfies the goals of our project. 
+
+## Community Feedback 
+
 
 ## Team Members
 <img src="https://avatars2.githubusercontent.com/u/70424200?s=460&u=78fa4d13c46fa5000026c3dc1d8147890934ff8b&v=4" width="200">
