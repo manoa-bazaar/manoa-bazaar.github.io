@@ -81,9 +81,9 @@ Then, the listing appears in the page of the category it was added in:
 ![Page of listing](mockup-pictures/Textbooks2-2.JPG)
 
 ### Admin
-When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site:
+When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site, including the option to edit or delete that listing. The admin can also see who the owner of that listing is:
 
-![Edit listing](mockup-pictures/Admin2-1.JPG)
+![Edit listing](mockup-pictures/admin-page-owners.png)
 
 The admin can edit and remove listings. 
 The edit looks like this: 
