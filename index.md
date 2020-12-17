@@ -29,26 +29,26 @@ The Manoa Bazaar application will allow users to upload images of the items that
 The [landing page](https://manoabazaar.com/) is presented to users when they visit the top-level URL to the site.
 It displays a list of most highly viewed items that are currently being sold at the top level, followed by categories that display related items.
 
-![Manoa_Bazaar_Landing_Page_1](mockup-pictures/LandingPage2.JPG)
+![Landing](mockup-pictures/Landing.JPG)
 
 As you can see in the top right of the landing page, there is the option to login or to register. When you click on login, you can login using your credentials. If you don't have am account yet, you can click on sign up. 
 The login page looks like this:
 
-![Login page](mockup-pictures/login-page.png)
+![Login page](mockup-pictures/signin.JPG)
 
 The register page looks like this:
-![Register page](mockup-pictures/register-page.png)
+![Register page](mockup-pictures/signup.JPG)
 
 
 ### Categories page 
 Once the user is logged in, they can see the different categories in which items are offered.
 The [Categories page](https://manoabazaar.com/#/categories) shows ths users 5 categories: textbooks, kitchenware, bedroom items, school supplies, and other items. The first 4 categories contain items that fall into each of the categories, and the "other items" category holds items that don't belong in any of the other categories. Clicking on each of these categories takes you to a page of that category, where the items are listed. 
 
-![Category Examples](mockup-pictures/categoriespage-updated.png)
+![Category Examples](mockup-pictures/categories1.JPG)
 
 When you click on the category you are looking for, it will take you to a page where the items for that category are listed. When you click on the [Textbooks](https://manoabazaar.com/#/textbooks) category, the page will display the textbooks currently being offered. Each item has a button at the bottom that says "view item", that when clicked on, will take show you the item with all the details belonging to that item. This is the same for all items in each of the categories. In the case of the Textbooks category looks like this:
 
-![Textbooks Category View item](mockup-pictures/Textbooks2.JPG)
+![Textbooks Category View item](mockup-pictures/rtextbooks.JPG)
 
 It shows all the textbooks that are offered on the Manoa-Bazaar app. 
 Each of the categories, when clicked on, will have their own page that displays the items that are listed in that category, and each item on that page has a button that links to the view item page.
@@ -69,16 +69,16 @@ Gives users options to choose caregories, prices, and input descriptions.
 
 The add listing page looks like this:
 
-![Creating an Example Listing](mockup-pictures/add-listing.png)
+![Creating an Example Listing](mockup-pictures/listitem.JPG)
 
 When the information is filled out, you click submit. An alert will appear on the screen that the item has been added successfully. 
 
-![Listing-added](mockup-pictures/filled-out-listing.png)
-![Alert listing](mockup-pictures/alert-added-listing.png)
+![Listing-added](mockup-pictures/listitem1.JPG)
+![Alert listing](mockup-pictures/listitem2.JPG)
 
 Then, the listing appears in the page of the category it was added in:
 
-![Page of listing](mockup-pictures/Textbooks2-2.JPG)
+![Page of listing](mockup-pictures/ntextbooks.JPG)
 
 ### Admin
 When the current user logged in has the role admin, there are some extra things the admin can do. The admin has an extra tab in the menu that says "[Admin](https://manoabazaar.com/#/admin)". When the user clicks on that page, all the listings will be displayed on that site, including the option to edit or delete that listing. The admin can also see who the owner of that listing is:
