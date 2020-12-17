@@ -147,22 +147,27 @@ The goal of Milestone 3 is to have a functional website that satisfies the goals
 Manoa bazaar is a website that is made by us for our community members. We've asked some community members what their opinion about Manoa Bazaar is. Here is what they had to say. 
 
 > I really like the idea of Manoa Bazaar. It is super convenient so have all items in one place, instead of all over facebook / going around in text groups.
-Manoa Bazaar is an userfriendly site. It was pretty easy for me to navigate on the website, and I like how the items are divided up into categories. Maybe a nice feature would have been if the categories were divided up into further subcategories. For example, when you are looking for a textbook, you have to look through the whole page of the textbooks to find books for a certain subject. 
+Manoa Bazaar is an userfriendly site. It was pretty easy for me to navigate on the website, and I like how the items are divided up into categories. Maybe a nice feature would have been if the categories were divided up into further subcategories. For example, when you are looking for a textbook, you have to look through the whole page of the textbooks to find books for a certain subject.
+
 -- Anne, Communications major 
 
 > This is such a good idea for a website! I've been using facebook marketplace to try and sell items when I moved out of the dorms, but it didn't work that well. This is an organized website that displays the items that are currently being offered. Adding a listing is very easy, and it is nice that the item immediately appears in its respective category. That way, people can see your item very soon and it will probably sell faster.
+
 -- Carmen, Sociology major 
 
 > I really like that this is a website by UHM students for UHM students (and faculty). That way, you know that all the items you see are close by. There are no super long shipping costs, and it would even be possible to have an item the next day. This just all seems very effective, and I like that the products stay within the community. 
 The website is easy to navigate and understand. I like that the landing page displays some items, so you can get a feel for what is offered on the website. I'm not sure if these items have any meaning, such as most viewed or most popular items, and if not, I think that would be a cool thing to add. I think that would give users a better insight into the website and what items would do well on there.
+
 -- Irene, KRS major
 
 > It is a cool idea and development. There are some cosmetic things, in my opinion, that could improve the look and feel of the website. For example, on the view item page, the button to view the item is a different height on each seperate item. If this were to be the same on all the items, I think it would give the website a more professional feel.
 Besides those little appearance things, the website works well. It's awesome that it offers items from UH students for UH students. The items are displayed in an organized way, and I like that you see more details when you click on the item and that you can make a bid there! I like the bidding concept, because it can increase the value of an item if it is really popular.
+
 -- Josh, Mathematics major
 
 > The website is easy to use. I like how simple adding and editing a listing are. I like how you can bid on an item, it seems similar to facebook marketplace where UH students also sell and buy items, but here all the items are in one place. I like how there are five categories and each of these categories are very broad and simplistic. However, when furniture is offered, I don't know if I should put it in bedroom items, or other items. Maybe there could have been another category for furniture. 
 I would also recommend changing the view item button on each of the items to stick to the bottom of the item. 
+
 -- Mary, Mechanical Engineering major
 
 ## Team Members
